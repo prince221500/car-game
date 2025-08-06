@@ -8,7 +8,7 @@
       <tr>
         <th>Technology</th>
         <th>Purpose</th>
-      </tr>
+      </tr>  
     </thead>
     <tbody>
       <tr>
