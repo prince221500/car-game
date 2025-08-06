@@ -38,46 +38,11 @@
     </tbody>
   </table>
 
- <h1> 📁 Project Structure Overview:</h1>
- 
-<h3>index.html </h3>
-<h1>.</h1>Contains  where the React app mounts.</h5>
+ <h1> 📁sample image  </h1>
 
-Loads the entry point: /src/main.tsx.
-
-vite.config.ts
-
-Configures Vite (e.g. plugins, build options).
-
-tailwind.config.js + postcss.config.js
-
-Used to configure and extend Tailwind CSS.
-
-tsconfig*.json
-
-TypeScript configuration files for app and tooling.
-
-eslint.config.js
-
-Defines ESLint rules for clean and consistent code.
-
-package.json
-
-Lists dependencies and project scripts:
-
-dev – runs the dev server
-
-build – builds for production
-
-lint – checks code quality using ESLint
-
-preview – serves the production build locally
 
 
   <p><img align="center" src="https://github.com/prince221500/car-game/blob/main/sample/interface.png" /></p>
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/prince221500/car-game/blob/main/sample/sample%20video.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+
 
