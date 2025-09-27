@@ -18,10 +18,7 @@
       <tr>
         <td><strong>TypeScript</strong></td>
         <td>Adds static typing to JavaScript</td>
-      </tr>
-      <tr>
-        <td><strong>Vite</strong></td>
-        <td>Development server &amp; bundler</td>
+      td>
       </tr>
       <tr>
         <td><strong>Tailwind CSS</strong></td>
