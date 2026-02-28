@@ -17,9 +17,7 @@
       <tr>
         <td><strong>TypeScript</strong></td>
         <td>Adds static typing to JavaScript</td>
-        
-      
-      </tr>
+        </tr>
       <tr>
         <td><strong>Tailwind CSS</strong></td>
         <td>Utility-first CSS framework</td>
