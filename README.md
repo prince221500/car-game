@@ -17,7 +17,7 @@
       <tr>
         <td><strong>TypeScript</strong></td>
         <td>Adds static typing to JavaScript</td>
-td>
+        td>
       
       </tr>
       <tr>
